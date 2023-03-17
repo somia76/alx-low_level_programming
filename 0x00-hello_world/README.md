@@ -1,4 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+0x00. C - Hello, World
+Tasks
+0. Preprocessor
+mandatory
+Score: 0.0% (Checks completed: 0.0%)
+Write a script that runs a C file through the preprocessor and save the result into another file.
+
+The C file name will be saved in the variable $CFILE
+The output should be saved in the file c
+=======
+>>>>>>> 16f6d8ebfe5c7b4dd404ade311ed8c8c1e9b7430
 # 0x00. C - Hello, World
 ## Tasks
 
@@ -57,6 +70,7 @@ Write a C program that prints the size of various types on the computer it is co
  * Warnings are allowed
  * Your program should return 0
  * You might have to install the package libc6-dev-i386 on your Linux to test the -m32 gcc option
+<<<<<<< HEAD
 =======
 0x00. C - Hello, World
 Tasks
@@ -68,3 +82,6 @@ Write a script that runs a C file through the preprocessor and save the result i
 The C file name will be saved in the variable $CFILE
 The output should be saved in the file c
 >>>>>>> RE
+=======
+>>>>>>> d1528938f38a81c56aebab179b55f1416622b885
+>>>>>>> 16f6d8ebfe5c7b4dd404ade311ed8c8c1e9b7430
